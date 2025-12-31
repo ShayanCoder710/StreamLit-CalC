@@ -1,2 +1,2 @@
-#برای اجرای کد دستور زیر را در پاورشل یا سی ام دی خود وارد کنید:
+##To run the code, enter the following command in your PowerShell or CMD
 - streamlit run streamlit.py
